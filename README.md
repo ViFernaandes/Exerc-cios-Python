@@ -10,5 +10,5 @@ O intuito desse repositório e postar resoluções de exercícios que venho prat
  - Estrutura de Repetições
  - Operadores Aritméticos
  - Programação Orientada a Objeto
- - Estrutura de Condições
+ - Estrutura de Condicionais
  - E entre outros.
